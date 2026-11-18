@@ -1,0 +1,1 @@
+import{m as e}from"./bloques-4n0F2UBZ.js";import{t}from"./SitePage-CfqU0fTN.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`privacidad`});export{r as component};

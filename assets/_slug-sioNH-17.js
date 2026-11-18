@@ -1,0 +1,1 @@
+import{m as e}from"./bloques-4n0F2UBZ.js";import{n as t}from"./index-6SQdCUd0.js";import{t as n}from"./SitePage-CfqU0fTN.js";var r=e();function i(){let{slug:e}=t.useParams();return(0,r.jsx)(n,{page:`servicio:`+e})}export{i as component};
